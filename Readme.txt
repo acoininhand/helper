@@ -8,3 +8,8 @@ This is a reference file for using helper application
 
 If <input file> is not provided it will take omci.msg as default file and if <output file> is not procided it will take output.txt as defalult.
 
+_____How to Compile_____
+
+1. Go to helper directory.
+
+2. make
