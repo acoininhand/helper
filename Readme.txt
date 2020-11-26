@@ -1,0 +1,10 @@
+_____How to Use_____
+
+This is a reference file for using helper application
+
+1. To run the app provide input in command line-
+
+./helper <input file> <output file>
+
+If <input file> is not provided it will take omci.msg as default file and if <output file> is not procided it will take output.txt as defalult.
+
