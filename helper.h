@@ -51,7 +51,13 @@ unordered_map <string, string> m = {
 		{"4f", "MIB Reset"},
 		{"2f", "MIB Reset Response"},
 		{"58", "Synchronize Time"},
-		{"38", "Synchronize Time Response"}
+		{"38", "Synchronize Time Response"},
+		{"53", "Start Software Download"},
+		{"33", "Start Software Download Response"},
+		{"54", "Download Section"},
+		{"34", "Download Section Response"},
+		{"55", "End Software Download"},
+		{"35", "End Software Download Response"}
 };
 
 
